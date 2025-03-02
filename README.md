@@ -1,2 +1,2 @@
 # SENG2050_Lab2
-SENG2050 Lab 2
+This repository consists of exercises for Lab 2 of SENG2050 course
